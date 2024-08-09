@@ -1,12 +1,13 @@
-# Fullstack Netflix Clone with React, NextJS, TailwindCSS & Prisma
+# Fullstack Netflix Clone 
 
-![image](https://user-images.githubusercontent.com/23248726/220005380-ede4fb14-0b8d-4582-a063-3cc4beeccfb7.png)
+### Intro
+FullStack Netflix Clone tutorial using React, NextJS, TailwindCSS & Prisma.
 
-This is a repository for a FullStack Netflix Clone tutorial using React, NextJS, TailwindCSS & Prisma.
+### Vidoe Tutorial
 
-[VIDEO TUTORIAL](https://www.youtube.com/watch?v=mqUN4N2q4qY)
+https://www.youtube.com/watch?v=mqUN4N2q4qY
 
-Features:
+### Features
 
 - Environment, Typescript, NextJS Setup
 - MongoDB & Prisma connect, Database creation
@@ -18,16 +19,6 @@ Features:
 - React SWR data fetching
 - Zustand state management
 
-### Prerequisites
-
-**Node version 14.x**
-
-### Cloning the repository
-
-```shell
-git clone https://github.com/AntonioErdeljac/next-netflix-tutorial.git
-```
-
 ### Install packages
 
 ```shell
@@ -37,7 +28,7 @@ npm i
 ### Setup .env file
 
 
-```js
+```
 DATABASE_URL=
 GOOGLE_CLIENT_ID=
 GOOGLE_CLIENT_SECRET=
@@ -53,16 +44,7 @@ NEXTAUTH_SECRET=
 npm run dev
 ```
 
-## Available commands
-
-Running commands with npm `npm run [command]`
-
-| command         | description                              |
-| :-------------- | :--------------------------------------- |
-| `dev`           | Starts a development instance of the app |
-
-
-## Screenshots
+### Screenshots
 
 ![screenshot1](screenshot1.png)
 
