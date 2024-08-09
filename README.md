@@ -3,7 +3,7 @@
 ### Intro
 FullStack Netflix Clone tutorial using React, NextJS, TailwindCSS & Prisma.
 
-### Vidoe Tutorial
+### Video Tutorial
 
 https://www.youtube.com/watch?v=mqUN4N2q4qY
 
@@ -19,13 +19,13 @@ https://www.youtube.com/watch?v=mqUN4N2q4qY
 - React SWR data fetching
 - Zustand state management
 
-### Install packages
+### Install Packages
 
 ```shell
 npm i
 ```
 
-### Setup .env file
+### Setup .ENV
 
 
 ```
@@ -38,7 +38,7 @@ NEXTAUTH_JWT_SECRET=
 NEXTAUTH_SECRET=
 ```
 
-### Start the app
+### Start App
 
 ```shell
 npm run dev
