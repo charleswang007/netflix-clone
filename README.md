@@ -60,3 +60,12 @@ Running commands with npm `npm run [command]`
 | command         | description                              |
 | :-------------- | :--------------------------------------- |
 | `dev`           | Starts a development instance of the app |
+
+
+## Screenshots
+
+![screenshot1](screenshot1.png)
+
+![screenshot2](screenshot2.png)
+
+![screenshot3](screenshot3.png)
