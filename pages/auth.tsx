@@ -71,8 +71,9 @@ const Auth = () => {
   return (
     <div>
       <Head>
-        <title>Netflix Clone</title>
+        <title>Charles's Netflix</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+        <link rel="icon" type="image/x-icon" href="/images/c.png"></link>
       </Head>
       <div className="relative h-full w-full bg-[url('/images/hero.jpg')] bg-no-repeat bg-center bg-fixed bg-cover">
         <div className="bg-black w-full h-full lg:bg-opacity-50">

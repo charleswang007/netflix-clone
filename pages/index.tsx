@@ -36,8 +36,9 @@ const Home = () => {
   return (
     <>
       <Head>
-        <title>Netflix Clone</title>
+        <title>Charles's Netflix</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+        <link rel="icon" type="image/x-icon" href="/images/c.png"></link>
       </Head>
       <InfoModal visible={isOpen} onClose={closeModal} />
       <Navbar />

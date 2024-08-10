@@ -1,0 +1,34 @@
+[
+   {
+      "title":"台北的天空",
+      "description":"Horseback Riding in Tamsui",
+      "videoUrl":"https://charleswang.us/netflix_source/horse.mp4",
+      "thumbnailUrl":"https://charleswang.us/netflix_source/horse.jpg",
+      "genre":"Charles",
+      "duration":"1 minute"
+   },
+   {
+      "title":"驚天一投",
+      "description":"3 Pointer at UC Berkeley",
+      "videoUrl":"https://charleswang.us/netflix_source/basketball.mp4",
+      "thumbnailUrl":"https://charleswang.us/netflix_source/basketball.jpg",
+      "genre":"Charles",
+      "duration":"20 seconds"
+   },
+   {
+      "title":"上班族籃球",
+      "description":"Songshan Basketball",
+      "videoUrl":"https://charleswang.us/netflix_source/basketball1.mp4",
+      "thumbnailUrl":"https://charleswang.us/netflix_source/basketball1.jpg",
+      "genre":"Charles",
+      "duration":"11 seconds"
+   },
+   {
+      "title":"雨中投藍",
+      "description":"Singin' in the Rain",
+      "videoUrl":"https://charleswang.us/netflix_source/basketball2.mp4",
+      "thumbnailUrl":"https://charleswang.us/netflix_source/basketball2.jpg",
+      "genre":"Charles",
+      "duration":"14 seconds"
+   }
+]
