@@ -7,6 +7,10 @@ FullStack Netflix Clone tutorial using React, NextJS, TailwindCSS & Prisma.
 
 https://www.youtube.com/watch?v=mqUN4N2q4qY
 
+### Live Demo
+
+https://movie-eecfonfwj-charles-projects-c40359fe.vercel.app/ (username: charles@gmail.com)
+
 ### Features
 
 - Environment, Typescript, NextJS Setup
