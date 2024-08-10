@@ -1,3 +1,4 @@
+import Head from 'next/head'
 import React from 'react';
 import { NextPageContext } from 'next';
 import { getSession } from 'next-auth/react';
@@ -34,6 +35,10 @@ const Home = () => {
 
   return (
     <>
+      <Head>
+        <title>Netflix Clone</title>
+        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+      </Head>
       <InfoModal visible={isOpen} onClose={closeModal} />
       <Navbar />
       <Billboard />
