@@ -9,7 +9,8 @@ https://www.youtube.com/watch?v=mqUN4N2q4qY
 
 ### Live Demo
 
-https://movie-eecfonfwj-charles-projects-c40359fe.vercel.app/ (username: charles@gmail.com)
+- https://charles007.com/netflix (username: charles@gmail.com)
+- https://movie-eecfonfwj-charles-projects-c40359fe.vercel.app/ (username: charles@gmail.com)
 
 ### Features
 
