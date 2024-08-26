@@ -7,7 +7,9 @@ import Navbar from '@/components/Navbar';
 import Billboard from '@/components/Billboard';
 import MovieList from '@/components/MovieList';
 import InfoModal from '@/components/InfoModal';
+import useOfficeList from '@/hooks/useOfficeList';
 import useMovieList from '@/hooks/useMovieList';
+import useFoodList from '@/hooks/useFoodList';
 import useFavorites from '@/hooks/useFavorites';
 import useInfoModalStore from '@/hooks/useInfoModalStore';
 
@@ -30,6 +32,8 @@ export async function getServerSideProps(context: NextPageContext) {
 
 const Home = () => {
   const { data: movies = [] } = useMovieList();
+  const { data: offices = [] } = useOfficeList();
+  const { data: foods = [] } = useFoodList();
   const { data: favorites = [] } = useFavorites();
   const {isOpen, closeModal} = useInfoModalStore();
 
@@ -44,8 +48,10 @@ const Home = () => {
       <Navbar />
       <Billboard />
       <div className="pb-40">
-        <MovieList title="Trending Now" data={movies} />
-        <MovieList title="My List" data={favorites} />
+        <MovieList title="Singapore Highlights" data={movies} />
+        <MovieList title="Singapore Office" data={offices} />
+        <MovieList title="Singapore Food" data={foods} />
+        <MovieList title="Favorite Food" data={favorites} />
       </div>
     </>
   )

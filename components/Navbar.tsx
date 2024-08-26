@@ -14,7 +14,7 @@ const Navbar = () => {
 
   useEffect(() => {
     const handleScroll = () => {
-      console.log(window.scrollY)
+      // console.log(window.scrollY)
       if (window.scrollY >= TOP_OFFSET) {
         setShowBackground(true)
       } else {
@@ -47,7 +47,7 @@ const Navbar = () => {
           <NavbarItem label="Films" />
           <NavbarItem label="New & Popular" />
           <NavbarItem label="My List" />
-          <NavbarItem label="Browse by Languages" />
+          <NavbarItem label="新加坡之旅 8/18 - 8/24 (2024)" />
         </div>
         <div onClick={toggleMobileMenu} className="lg:hidden flex flex-row items-center gap-2 ml-8 cursor-pointer relative">
           <p className="text-white text-sm">Browse</p>

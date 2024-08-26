@@ -1,0 +1,34 @@
+[
+   {
+      "title":"Microsoft Singapore",
+      "description":"Frasers Tower",
+      "videoUrl":"",
+      "thumbnailUrl":"https://charleswang.us/netflix_source/msft.jpg",
+      "genre":"Singapore",
+      "duration":"30 minute"
+   },
+   {
+      "title":"Microsoft Singapore",
+      "description":"Frasers Tower",
+      "videoUrl":"",
+      "thumbnailUrl":"https://charleswang.us/netflix_source/msft1.jpg",
+      "genre":"Singapore",
+      "duration":"30 seconds"
+   },
+   {
+      "title":"Azure SEA Data Center",
+      "description":"One Marina Boulevard",
+      "videoUrl":"",
+      "thumbnailUrl":"https://charleswang.us/netflix_source/datacenter.jpg",
+      "genre":"Singapore",
+      "duration":"30 minute"
+   },
+   {
+      "title":"Azure SEA Data Center",
+      "description":"One Marina Boulevard",
+      "videoUrl":"",
+      "thumbnailUrl":"https://charleswang.us/netflix_source/datacenter1.jpg",
+      "genre":"Singapore",
+      "duration":"30 seconds"
+   }
+]

@@ -24,7 +24,19 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
       }
     });
 
-    if (!existingMovie) {
+    const existingOffice = await prismadb.office.findUnique({
+      where: {
+        id: movieId,
+      }
+    });
+
+    const existingFood = await prismadb.food.findUnique({
+      where: {
+        id: movieId,
+      }
+    });
+
+    if (!existingMovie && !existingOffice && !existingFood) {
       throw new Error('Invalid ID');
     }
 

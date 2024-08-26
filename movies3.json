@@ -1,0 +1,66 @@
+[
+   {
+      "title":"The Jewel",
+      "description":"Changi Airport",
+      "videoUrl":"https://charleswang.us/netflix_source/jewel.mp4",
+      "thumbnailUrl":"https://charleswang.us/netflix_source/jewel.jpg",
+      "genre":"Singapore",
+      "duration":"30 minute"
+   },
+   {
+      "title":"Marina Bay Sands",
+      "description":"Singapore",
+      "videoUrl":"https://charleswang.us/netflix_source/mbs.mp4",
+      "thumbnailUrl":"https://charleswang.us/netflix_source/mbs.jpg",
+      "genre":"Singapore",
+      "duration":"30 seconds"
+   },
+   {
+      "title":"Marina Bay Sands",
+      "description":"Singapore",
+      "videoUrl":"https://charleswang.us/netflix_source/mbs1.mp4",
+      "thumbnailUrl":"https://charleswang.us/netflix_source/mbs1.jpg",
+      "genre":"Singapore",
+      "duration":"30 seconds"
+   },
+   {
+      "title":"Marina Bay Sands",
+      "description":"Singapore",
+      "videoUrl":"https://charleswang.us/netflix_source/me.mp4",
+      "thumbnailUrl":"https://charleswang.us/netflix_source/mr.jpg",
+      "genre":"Singapore",
+      "duration":"30 seconds"
+   },
+   {
+      "title":"The Merlion",
+      "description":"Merlion Park",
+      "videoUrl":"https://charleswang.us/netflix_source/merlion.mp4",
+      "thumbnailUrl":"https://charleswang.us/netflix_source/merlion.jpg",
+      "genre":"Singapore",
+      "duration":"30 seconds"
+   },
+   {
+      "title":"The Supertree Grove",
+      "description":"Gardens by the Bay",
+      "videoUrl":"https://charleswang.us/netflix_source/supertree.mp4",
+      "thumbnailUrl":"https://charleswang.us/netflix_source/supertree.jpg",
+      "genre":"Singapore",
+      "duration":"30 seconds"
+   },
+   {
+      "title":"The Merlion",
+      "description":"Merlion Park",
+      "videoUrl":"https://charleswang.us/netflix_source/merlion1.mp4",
+      "thumbnailUrl":"https://charleswang.us/netflix_source/merlion1.jpg",
+      "genre":"Singapore",
+      "duration":"30 seconds"
+   },
+   {
+      "title":"Cloud Forest",
+      "description":"Gardens by the Bay",
+      "videoUrl":"https://charleswang.us/netflix_source/cloudforest.mp4",
+      "thumbnailUrl":"https://charleswang.us/netflix_source/cloudforest.jpg",
+      "genre":"Singapore",
+      "duration":"30 seconds"
+   }
+]
